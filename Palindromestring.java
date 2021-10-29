@@ -23,9 +23,9 @@ public class Palindromestring {
 			
 		    //checking of both original and reverse strings
 			if(y.equals(rev)){
-				System.out.println("The given number is a palindrome String");
+				System.out.println("The given string is a palindrome String");
 			} else{
-				System.out.println("The given number is not a Palindrome String");	
+				System.out.println("The given string is not a Palindrome String");	
 			}
 	   }
 	}
